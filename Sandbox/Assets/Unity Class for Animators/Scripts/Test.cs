@@ -6,7 +6,6 @@ public class Test : MonoBehaviour
 {
     [SerializeField]
     private float speed = 5.0f;
-    private Rigidbody rg;
 
     private Vector3 moveInput;
     private Vector3 moveVel;
@@ -16,7 +15,6 @@ public class Test : MonoBehaviour
 
     void Awake()
     {
-        rg = GetComponent<Rigidbody>();
         cam = cam.GetComponent<Camera>();
     }
 
