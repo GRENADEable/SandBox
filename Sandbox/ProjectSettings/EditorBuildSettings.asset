@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/KriptoFX/Realistic Effects Pack v4/Mobile_Demo.unity
-    guid: 014436bf9bb0d114090e06380a89eb5f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
